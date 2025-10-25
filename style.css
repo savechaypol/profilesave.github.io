@@ -5,8 +5,8 @@
     margin-top: 50px;
 }
 .pictures{
-    width: 500px;              /* ขนาดรูป */
-    height: 500px;
+    width: 5000px;              /* ขนาดรูป */
+    height: 5000px;
     border-radius: 50%;        /* ทำให้เป็นวงกลม */
     border: 5px solid #007bff; /* สีขอบ */
     object-fit: cover;         /* ให้ภาพพอดีกับวงกลม */
