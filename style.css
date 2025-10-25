@@ -1,18 +1,12 @@
-  body {
-    display: flex;
-    justify-content: center;   /* จัดให้อยู่กึ่งกลางแนวนอน */
-    align-items: center;       /* จัดให้อยู่กึ่งกลางแนวตั้ง */
-    height: 100vh;             /* เต็มความสูงหน้าจอ */
-    background: #f5f5f5;
-  }
+
 .container{
     max-width: 600px;
     margin:  auto;
     margin-top: 50px;
 }
 .pictures{
-    width: 200px;              /* ขนาดรูป */
-    height: 200px;
+    width: 500px;              /* ขนาดรูป */
+    height: 500px;
     border-radius: 50%;        /* ทำให้เป็นวงกลม */
     border: 5px solid #007bff; /* สีขอบ */
     object-fit: cover;         /* ให้ภาพพอดีกับวงกลม */
