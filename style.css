@@ -7,6 +7,8 @@
 .pictures{
     width: 800px;              /* ขนาดรูป */
     height: 800px;
+    justify-content: center;   /* จัดให้อยู่กึ่งกลางแนวนอน */
+    align-items: center;       /* จัดให้อยู่กึ่งกลางแนวตั้ง */
     border-radius: 50%;        /* ทำให้เป็นวงกลม */
     border: 5px solid #007bff; /* สีขอบ */
     object-fit: cover;         /* ให้ภาพพอดีกับวงกลม */
